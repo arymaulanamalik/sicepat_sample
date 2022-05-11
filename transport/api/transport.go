@@ -9,12 +9,12 @@ import (
 	httpSwagger "github.com/swaggo/http-swagger"
 
 	"github.com/prometheus/client_golang/prometheus/promhttp" // http-swagger middleware
-	//_ "github.com/maul/sicepat_sample/docs"
-	"github.com/maul/sicepat_sample/pkg/database"
-	"github.com/maul/sicepat_sample/pkg/logger"
-	"github.com/maul/sicepat_sample/registry"
-	"github.com/maul/sicepat_sample/transport/api/group"
-	"github.com/maul/sicepat_sample/transport/api/handler"
+	//_ "github.com/arymaulanamalik/sicepat_sample/docs"
+	"github.com/arymaulanamalik/sicepat_sample/pkg/database"
+	"github.com/arymaulanamalik/sicepat_sample/pkg/logger"
+	"github.com/arymaulanamalik/sicepat_sample/registry"
+	"github.com/arymaulanamalik/sicepat_sample/transport/api/group"
+	"github.com/arymaulanamalik/sicepat_sample/transport/api/handler"
 	grace "gitlab.sicepat.tech/platform/golib/httputil"
 	myrouter "gitlab.sicepat.tech/platform/golib/router"
 )

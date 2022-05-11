@@ -3,9 +3,9 @@ package users
 import (
 	"context"
 
-	"github.com/maul/sicepat_sample/domain/model"
-	"github.com/maul/sicepat_sample/domain/repository"
-	"github.com/maul/sicepat_sample/domain/service"
+	"github.com/arymaulanamalik/sicepat_sample/domain/model"
+	"github.com/arymaulanamalik/sicepat_sample/domain/repository"
+	"github.com/arymaulanamalik/sicepat_sample/domain/service"
 )
 
 type UsersServiceImpl struct {

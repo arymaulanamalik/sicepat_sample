@@ -1,4 +1,4 @@
-module github.com/maul/sicepat_sample
+module github.com/arymaulanamalik/sicepat_sample
 
 go 1.18
 

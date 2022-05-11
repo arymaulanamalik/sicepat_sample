@@ -1,9 +1,9 @@
 package registry
 
 import (
-	"github.com/maul/sicepat_sample/adapter/controller"
-	"github.com/maul/sicepat_sample/domain/repository"
-	"github.com/maul/sicepat_sample/service/api/users"
+	"github.com/arymaulanamalik/sicepat_sample/adapter/controller"
+	"github.com/arymaulanamalik/sicepat_sample/domain/repository"
+	"github.com/arymaulanamalik/sicepat_sample/service/api/users"
 )
 
 func (m *module) NewUsersRepository() repository.UsersRepository {

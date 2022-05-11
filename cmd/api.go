@@ -6,7 +6,7 @@ import (
 	"gitlab.sicepat.tech/platform/golib/log"
 	"gitlab.sicepat.tech/platform/golib/tracing"
 
-	rest "github.com/maul/sicepat_sample/transport/api"
+	rest "github.com/arymaulanamalik/sicepat_sample/transport/api"
 	"github.com/spf13/cobra"
 )
 

@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/maul/sicepat_sample/pkg/database"
-	"github.com/maul/sicepat_sample/pkg/logger"
+	"github.com/arymaulanamalik/sicepat_sample/pkg/database"
+	"github.com/arymaulanamalik/sicepat_sample/pkg/logger"
 )
 
 var (

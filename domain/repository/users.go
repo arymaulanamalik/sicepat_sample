@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/maul/sicepat_sample/domain/model"
-	"github.com/maul/sicepat_sample/shared"
+	"github.com/arymaulanamalik/sicepat_sample/domain/model"
+	"github.com/arymaulanamalik/sicepat_sample/shared"
 	uuid "github.com/satori/go.uuid"
 	"go.mongodb.org/mongo-driver/mongo"
 )

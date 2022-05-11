@@ -3,8 +3,8 @@ package controller
 import (
 	"context"
 
-	"github.com/maul/sicepat_sample/domain/service"
-	"github.com/maul/sicepat_sample/service/api/users"
+	"github.com/arymaulanamalik/sicepat_sample/domain/service"
+	"github.com/arymaulanamalik/sicepat_sample/service/api/users"
 )
 
 type UsersControllerImpl struct {

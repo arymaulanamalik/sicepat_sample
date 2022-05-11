@@ -6,9 +6,9 @@ import (
 
 	validator "github.com/vincentius93/govalidator"
 
-	"github.com/maul/sicepat_sample/domain/service"
-	"github.com/maul/sicepat_sample/pkg/logger"
-	"github.com/maul/sicepat_sample/shared"
+	"github.com/arymaulanamalik/sicepat_sample/domain/service"
+	"github.com/arymaulanamalik/sicepat_sample/pkg/logger"
+	"github.com/arymaulanamalik/sicepat_sample/shared"
 	"gitlab.sicepat.tech/platform/golib/response"
 )
 

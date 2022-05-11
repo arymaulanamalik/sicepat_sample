@@ -1,8 +1,8 @@
 package registry
 
 import (
-	"github.com/maul/sicepat_sample/adapter/controller"
-	"github.com/maul/sicepat_sample/transport/api/middleware"
+	"github.com/arymaulanamalik/sicepat_sample/adapter/controller"
+	"github.com/arymaulanamalik/sicepat_sample/transport/api/middleware"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

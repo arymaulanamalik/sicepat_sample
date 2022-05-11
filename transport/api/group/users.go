@@ -1,8 +1,8 @@
 package group
 
 import (
-	"github.com/maul/sicepat_sample/transport/api/handler"
-	"github.com/maul/sicepat_sample/transport/api/middleware"
+	"github.com/arymaulanamalik/sicepat_sample/transport/api/handler"
+	"github.com/arymaulanamalik/sicepat_sample/transport/api/middleware"
 	"gitlab.sicepat.tech/platform/golib/router"
 )
 

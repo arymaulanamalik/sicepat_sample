@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/maul/sicepat_sample/cmd"
-	// _ "github.com/maul/sicepat_sample/docs"
+	"github.com/arymaulanamalik/sicepat_sample/cmd"
+	// _ "github.com/arymaulanamalik/sicepat_sample/docs"
 
 	_ "gocloud.dev/docstore/memdocstore"
 	_ "gocloud.dev/docstore/mongodocstore"
